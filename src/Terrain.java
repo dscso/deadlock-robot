@@ -20,7 +20,7 @@ public class Terrain extends JPanel
     //
     // /!\ une densit� trop �lev�e bloque l'application � la g�n�ration du terrain /!\
     //
-    private final double DENSITY_OBSTACLE = 0.05; // densit� d'obstacle, comprise entre 0 et 1. <0.5 recommand�
+    private final double DENSITY_OBSTACLE = 0.2; // densit� d'obstacle, comprise entre 0 et 1. <0.5 recommand�
     
     
     // quantit� initiale de nourriture plac�e dans une case nourriture 
