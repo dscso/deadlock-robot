@@ -6,3 +6,5 @@ If he has nothing to track, he walks around random
 
 ## Deadlock protection
 if he notices that the last 3 visited positions are equal to the current position, he turns around and walks random for 5 steps.
+
+![Deadlock](deadlock.png "Deadlock")
